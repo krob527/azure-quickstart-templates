@@ -5,11 +5,9 @@
     "location": {
       "type": "string",
       "allowedValues": [
-        "West US",
+        "East US2",
         "East US",
-        "West Europe",
-        "East Asia",
-        "Southeast Asia"
+        "West US"
       ],
       "metadata": {
         "Description": "The region to deploy the resources into"
